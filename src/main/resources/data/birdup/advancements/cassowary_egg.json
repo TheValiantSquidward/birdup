@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "cassowary_egg": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "birdup:cassowary_egg"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "birdup.advancement.acquire_cassowary_egg.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "birdup:cassowary_egg"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "birdup.advancement.acquire_cassowary_egg"
+    }
+  },
+  "requirements": [
+    [
+      "cassowary_egg"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

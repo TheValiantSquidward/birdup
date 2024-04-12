@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "birdup:item/greatbill_lance_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "birdup:item/greatbill_lance_2d"
+    },
+    "ground": {
+      "parent": "birdup:item/greatbill_lance_2d"
+    },
+    "fixed": {
+      "parent": "birdup:item/greatbill_lance_2d"
+    }
+  }
+}

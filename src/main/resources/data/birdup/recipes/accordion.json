@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:note_block"
+    },
+    "_": {
+      "item": "birdup:sticky_saliva"
+    },
+    "+": {
+      "item": "birdup:lyre_feathers"
+    },
+    "=": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "+ =",
+    "_##",
+    "##_"
+  ],
+  "result": {
+    "item": "birdup:obnoxious_accordion"
+  },
+  "show_notification": true
+}

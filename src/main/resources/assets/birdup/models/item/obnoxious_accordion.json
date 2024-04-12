@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "birdup:item/obnoxious_accordion_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "birdup:item/obnoxious_accordion_2d"
+    },
+    "ground": {
+      "parent": "birdup:item/obnoxious_accordion_2d"
+    },
+    "fixed": {
+      "parent": "birdup:item/obnoxious_accordion_2d"
+    }
+  }
+}

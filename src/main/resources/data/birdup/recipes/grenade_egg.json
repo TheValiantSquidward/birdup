@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:gunpowder"
+    },
+    "_": {
+      "item": "birdup:cassowary_egg"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#_#",
+    " # "
+  ],
+  "result": {
+    "item": "birdup:grenade_egg"
+  },
+  "show_notification": true
+}

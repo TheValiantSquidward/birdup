@@ -1,0 +1,79 @@
+{
+  "creativetab.birdup_tab" : "Bird Up!",
+
+  "item.birdup.greatbill_lance": "Greatbill Lance",
+  "item.birdup.birdsteel_ingot": "Birdsteel Ingot",
+  "item.birdup.sticky_saliva": "Sticky Saliva",
+  "item.birdup.blue_cloth_scraps": "Blue Cloth Scrap",
+  "item.birdup.beaten_shaft": "Beaten Shaft",
+  "item.birdup.herons_bill": "Heron's Bill",
+  "item.birdup.obnoxious_accordion": "Obnoxious Accordion",
+  "item.birdup.lyre_feathers": "Lyre Feather",
+  "item.birdup.lyre_cap": "Lyre Cap",
+  "item.birdup.flamingun": "Flamingun",
+  "item.birdup.cassowary_egg": "Cassowary Egg",
+  "item.birdup.grenade_egg": "Grenade Egg",
+  "item.birdup.brine_shrimp": "Brine Shrimp",
+  "item.birdup.brine_shrimp_egg_packet": "Brine Shrimp Egg Packet",
+  "item.birdup.birds_arise_disc": "Music Disc",
+  "item.birdup.bowerd_disc": "Music Disc",
+  "item.birdup.birds_arise_disc.desc": "Dylanvhs - Birds Arise",
+  "item.birdup.bowerd_disc.desc": "TheValiantSquidward - Bower'd",
+
+
+  "block.birdup.birdsteel_block": "Block of Birdsteel",
+
+  "birdup.sound.subtitle.annoying_accordion": "Annoying Call",
+  "birdup.sound.subtitle.accordion_attack": "Annoying Attack",
+  "birdup.sound.subtitle.gunfire": "Flamingun Fires",
+  "birdup.sound.subtitle.reload": "Flamingun Reloads",
+
+  "enchantment.birdup.screamer": "Screamer",
+  "enchantment.birdup.screamer.desc": "Annoying Accordion becomes a headphoned player's worst nightmare",
+  "enchantment.birdup.launching": "Launching",
+  "enchantment.birdup.launching.desc": "Greatbill Lance's launch power becomes much higher - but the cooldown becomes much longer as well",
+  "enchantment.birdup.twirling": "Twirling",
+  "enchantment.birdup.twirling.desc": "Turns the Greatbill Lance's secondary into a rapid spinning attack that eats away at its durability",
+  "enchantment.birdup.automatic": "Automatic",
+  "enchantment.birdup.automatic.desc": "Drastically increases Flamingun fire speed but decreases damage and accuracy",
+  "enchantment.birdup.rocket": "Rocket",
+  "enchantment.birdup.rocket.desc": "Turns Flamingun into a literal bazooka",
+  "enchantment.birdup.spreadfire": "Spreadfire",
+  "enchantment.birdup.spreadfire.desc": "Makes Flamingun fire multiple low-accuracy, short range projectiles",
+  "enchantment.birdup.shrimp_catcher": "Shrimp Catcher",
+  "enchantment.birdup.shrimp_catcher.desc": "Flamingun will occasionally reload ammo when in water",
+
+
+  "birdup.advancement.acquire_cassowary_egg": "Sam I Am",
+  "birdup.advancement.acquire_cassowary_egg.desc": "Obtain a Cassowary Egg",
+
+  "birdup.advancement.heron": "Big Blue",
+  "birdup.advancement.heron.desc": "Slay the mighty great blue Heron",
+
+  "birdup.advancement.acquire_obnoxious_accordion": "I am Become Death, Destroyer of Eardrums",
+  "birdup.advancement.acquire_obnoxious_accordion.desc": "Obtain an Obnoxious Accordion",
+
+  "birdup.advancement.acquire_lyre_feathers": "Lyre Lyre, Plants For Hire",
+  "birdup.advancement.acquire_lyre_feathers.desc": "Obtain a Lyre Feather",
+
+  "birdup.advancement.acquire_lance": "Dashing Knight",
+  "birdup.advancement.acquire_lance.desc": "Obtain a Greatbill Lance",
+
+  "birdup.advancement.acquire_flamingun": "Goldeneye 007",
+  "birdup.advancement.acquire_flamingun.desc": "Obtain a Flamingun",
+
+  "birdup.advancement.acquire_brine_shrimp_egg_packet": "Just Add Water!",
+  "birdup.advancement.acquire_brine_shrimp_egg_packet.desc": "Obtain a Brine Shrimp Egg packet",
+
+  "birdup.advancement.tame_cassowary": "Angry Bird",
+  "birdup.advancement.tame_cassowary.desc": "Tame a Cassowary",
+
+  "birdup.advancement.trade_bower": "I'm Blue Da Ba Dee Da Ba Dai",
+  "birdup.advancement.trade_bower.desc": "Convice a Bowerbird to give you one of its blue items",
+
+  "birdup.advancement.acquire_grenade_egg": "Yes Rico, Kaboom",
+  "birdup.advancement.acquire_grenade_egg.desc": "Obtain a Grenade Egg",
+
+  "birdup.advancement.birdup": "The Worst Show on Television",
+  "birdup.advancement.birdup.desc": "You're watching Bird Up"
+}

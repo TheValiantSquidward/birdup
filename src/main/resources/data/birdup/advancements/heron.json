@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "slain_heron": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "birdup:heron"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "birdup.advancement.heron.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "birdup:heron_bill"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "birdup.advancement.heron"
+    }
+  },
+  "requirements": [
+    [
+      "slain_heron"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

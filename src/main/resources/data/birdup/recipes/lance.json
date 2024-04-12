@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "birdup:beaten_shaft"
+    },
+    "+": {
+      "item": "birdup:birdsteel_ingot"
+    },
+    "=": {
+      "item": "birdup:blue_cloth_scraps"
+    },
+    "!": {
+      "item": "birdup:herons_bill"
+    }
+  },
+  "pattern": [
+    "  !",
+    "+# ",
+    "=+ "
+  ],
+  "result": {
+    "item": "birdup:greatbill_lance"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "grenade_egg": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "birdup:brine_shrimp_egg_packet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "birdup.advancement.acquire_brine_shrimp_egg_packet.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "birdup:brine_shrimp_egg_packet"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "birdup.advancement.acquire_brine_shrimp_egg_packet"
+    }
+  },
+  "requirements": [
+    [
+      "brine_shrimp_egg_packet"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

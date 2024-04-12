@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "obnoxious_accordion": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "birdup:obnoxious_accordion"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "birdup.advancement.acquire_obnoxious_accordion.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "birdup:obnoxious_accordion"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "birdup.advancement.acquire_obnoxious_accordion"
+    }
+  },
+  "requirements": [
+    [
+      "obnoxious_accordion"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

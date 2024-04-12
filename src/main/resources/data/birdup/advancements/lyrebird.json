@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "lyre_feathers": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "birdup:lyre_feathers"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "birdup.advancement.acquire_lyre_feathers.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "birdup:lyre_feathers"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "birdup.advancement.acquire_lyre_feathers"
+    }
+  },
+  "requirements": [
+    [
+      "lyre_feathers"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

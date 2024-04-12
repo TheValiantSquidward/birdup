@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "=": {
+      "item": "birdup:blue_cloth_scraps"
+    },
+    "!": {
+      "item": "birdup:lyre_feathers"
+    }
+  },
+  "pattern": [
+    "  !",
+    "===",
+    "= ="
+  ],
+  "result": {
+    "item": "birdup:lyre_cap"
+  },
+  "show_notification": true
+}

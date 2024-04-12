@@ -1,0 +1,215 @@
+{
+  "annoying_accordion": {
+    "sounds": [
+      {
+        "name": "birdup:aku_aku"
+      },
+      {
+        "name": "birdup:among_us_roundstart"
+      },
+      {
+        "name": "birdup:amongus"
+      },
+      {
+        "name": "birdup:bruh"
+      },
+      {
+        "name": "birdup:cartoon_boing"
+      },
+      {
+        "name": "birdup:cartoon_hammer"
+      },
+      {
+        "name": "birdup:cartoon_dash"
+      },
+      {
+        "name": "birdup:cartoonslip"
+      },
+      {
+        "name": "birdup:charmander"
+      },
+      {
+        "name": "birdup:chocolate"
+      },
+      {
+        "name": "birdup:crash_badaba"
+      },
+      {
+        "name": "birdup:deltarune_explosion"
+      },
+      {
+        "name": "birdup:fbi_open_up"
+      },
+      {
+        "name": "birdup:gaster_vanish"
+      },
+      {
+        "name": "birdup:guy_yelling_among_us_sound_effect"
+      },
+      {
+        "name": "birdup:hoopla"
+      },
+      {
+        "name": "birdup:lego_breaking"
+      },
+      {
+        "name": "birdup:ohh"
+      },
+      {
+        "name": "birdup:oof"
+      },
+      {
+        "name": "birdup:ping"
+      },
+      {
+        "name": "birdup:spongebob_dolphin_censor"
+      },
+      {
+        "name": "birdup:spongebob_fail"
+      },
+      {
+        "name": "birdup:taco_bell"
+      },
+      {
+        "name": "birdup:two_hours_later"
+      },
+      {
+        "name": "birdup:cheeseborger"
+      },
+      {
+        "name": "birdup:undertale_soul_shatter"
+      },
+      {
+        "name": "birdup:wah_wah_wah"
+      },
+      {
+        "name": "birdup:airhorn"
+      },
+      {
+        "name": "birdup:wombo_combo"
+      },
+      {
+        "name": "birdup:woah"
+      },
+      {
+        "name": "birdup:yodel"
+      },
+      {
+        "name": "birdup:87"
+      },
+      {
+        "name": "birdup:fozzie"
+      },
+      {
+        "name": "birdup:guh"
+      },
+      {
+        "name": "birdup:hiyah"
+      },
+      {
+        "name": "birdup:king"
+      },
+      {
+        "name": "birdup:mr_krabs"
+      },
+      {
+        "name": "birdup:shark_bait"
+      },
+      {
+        "name": "birdup:shine"
+      }
+    ],
+    "subtitle": "birdup.sound.subtitle.annoying_accordion"
+  },
+  "accordion_attack": {
+    "sounds": [
+      {
+        "name": "birdup:cartoon_boing"
+      },
+      {
+        "name": "birdup:cartoon_hammer"
+      },
+      {
+        "name": "birdup:deltarune_explosion"
+      },
+      {
+        "name": "birdup:cheeseborger"
+      },
+      {
+        "name": "birdup:airhorn"
+      }
+    ],
+    "subtitle": "birdup.sound.subtitle.accordion_attack"
+  },
+  "screamer_attack": {
+    "sounds": [
+      {
+        "name": "birdup:attackscream01"
+      },
+      {
+        "name": "birdup:attackscream02"
+      },
+      {
+        "name": "birdup:attackscream03"
+      },
+      {
+        "name": "birdup:attackscream04"
+      },
+      {
+        "name": "birdup:attackscream05"
+      }
+    ],
+    "subtitle": "birdup.sound.subtitle.accordion_attack"
+  },  "gunfire": {
+  "sounds": [
+    {
+      "name": "birdup:gun/fire"
+    }
+  ],
+  "subtitle": "birdup.sound.subtitle.gunfire"
+}, "automatic_fire": {
+  "sounds": [
+    {
+      "name": "birdup:gun/silenced_fire"
+    }
+  ],
+  "subtitle": "birdup.sound.subtitle.automatic_fire"
+}, "rocket_fire": {
+  "sounds": [
+    {
+      "name": "birdup:gun/rocket_fire"
+    }
+  ],
+  "subtitle": "birdup.sound.subtitle.rocket_fire"
+}, "shotgun_fire": {
+  "sounds": [
+    {
+      "name": "birdup:gun/shotgun_fire"
+    }
+  ],
+  "subtitle": "birdup.sound.subtitle.shotgun_fire"
+}, "reload": {
+  "sounds": [
+    {
+      "name": "birdup:gun/default_reload"
+    }
+  ],
+  "subtitle": "birdup.sound.subtitle.reload"
+},
+  "birds_arise": {
+    "sounds":[
+      {
+        "name": "birdup:birds_arise",
+        "stream": true
+      }
+    ]
+  },
+  "bowerd": {
+    "sounds":[
+      {
+        "name": "birdup:bowerd",
+        "stream": true
+      }
+    ]
+  }
+}

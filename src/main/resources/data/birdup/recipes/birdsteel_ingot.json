@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "black_dye",
+  "ingredients": [
+    {
+      "item": "birdup:birdsteel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "birdup:birdsteel_ingot"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "flamingun": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "birdup:flamingun"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "birdup.advancement.acquire_flamingun.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "birdup:flamingun"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "birdup.advancement.acquire_flamingun"
+    }
+  },
+  "requirements": [
+    [
+      "flamingun"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

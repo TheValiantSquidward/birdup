@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "lance": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "birdup:greatbill_lance"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "birdup.advancement.acquire_lance.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "birdup:greatbill_lance"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "birdup.advancement.acquire_lance"
+    }
+  },
+  "requirements": [
+    [
+      "lance"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
